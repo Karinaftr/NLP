@@ -1,0 +1,9 @@
+flask==2.3.3
+Werkzeug==2.3.7
+pydub==0.25.1
+numpy==1.26.0
+scipy==1.11.2
+pytsmod==0.3.7
+SoundFile==0.10.3.post1
+faster-whisper==0.8.0
+
